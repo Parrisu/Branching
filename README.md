@@ -68,4 +68,13 @@ Summary of common git commands, and practice with branching.
 * `git push origin branchName` - push local commits to `origin` repo on branch `branchName`
 * `git pull origin branchName` - pull remote branch `branchName` into current local branch
 
+<<<<<<< HEAD
  
+=======
+<<<<<<< HEAD
+
+# Main
+=======
+# Testing
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 764c29e3e5909dfb56452b8ec06026a94af72df5
