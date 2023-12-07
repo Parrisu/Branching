@@ -20,5 +20,9 @@
 * `git remove add origin URL` - set `origin` as alias for remote repo `URL`
 * `git push origin branchName` - push local commits to `origin` repo on branch `branchName`
 
+<<<<<<< HEAD
 
 # Main
+=======
+# Testing
+>>>>>>> refs/remotes/origin/main
